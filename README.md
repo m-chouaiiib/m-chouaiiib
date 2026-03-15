@@ -13,7 +13,7 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/m-chouaib-0?color=FF6B00&style=for-the-badge&logo=github&label=FOLLOWERS" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/m-chouaib-0?color=FF6B00&style=for-the-badge&logo=github&label=STARS&affiliations=OWNER" />
+  <img src="https://img.shields.io/github/stars/m-chouaib-0?color=FF6B00&style=for-the-badge&logo=github&label=STARS" />
   &nbsp;
   <a href="https://m-chouaib.eu.cc">
     <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
@@ -70,13 +70,13 @@ const chouaib = {
 ## 🎯 Currently Focusing On
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔭_Zabbix_&_Network_Monitoring-0D0D0D?style=for-the-badge&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/🔭_Zabbix_&_Network_Monitoring-0D0D0D?style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🧠_Machine_Learning_&_AI-0D0D0D?style=for-the-badge&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/🧠_Machine_Learning_&_AI-0D0D0D?style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/badge/☁️_Cloud_&_DevOps-0D0D0D?style=for-the-badge&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/☁️_Cloud_&_DevOps-0D0D0D?style=for-the-badge" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🐳_Docker_&_Containers-0D0D0D?style=for-the-badge&logoColor=FF6B00" />
+  <img src="https://img.shields.io/badge/🐳_Docker_&_Containers-0D0D0D?style=for-the-badge" />
 </p>
 
 -----
