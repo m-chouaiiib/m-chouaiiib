@@ -13,6 +13,8 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/m-chouaib-0?color=FF6B00&style=for-the-badge&logo=github&label=FOLLOWERS" />
   &nbsp;
+  <img src="https://img.shields.io/github/stars/m-chouaib-0?color=FF6B00&style=for-the-badge&logo=github&label=STARS" />
+  &nbsp;
   <a href="https://m-chouaib.eu.cc">
     <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
@@ -30,11 +32,11 @@
 
 -----
 
-<img align="centre" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif" />
-
-
 ## 🧑‍💻 About Me
 
+<table>
+  <tr>
+    <td width="55%">
 
 ```javascript
 const chouaib = {
@@ -51,12 +53,31 @@ const chouaib = {
 };
 ```
 
+  </td>
+    <td width="45%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+    </td>
+  </tr>
+</table>
+
 - 💡 I don’t just write code — I craft **experiences**
 - 🧠 Obsessed with **performance**, **design**, and **scalable architecture**
 - 🌍 Open to **collaborations**, **freelance** & exciting new challenges
 - 📍 Based in **Morocco**, working globally
 
-<br clear="right"/>
+-----
+
+## 🎯 Currently Focusing On
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔭_Zabbix_&_Network_Monitoring-0D0D0D?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🧠_Machine_Learning_&_AI-0D0D0D?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/☁️_Cloud_&_DevOps-0D0D0D?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🐳_Docker_&_Containers-0D0D0D?style=for-the-badge" />
+</p>
 
 -----
 
@@ -94,6 +115,14 @@ const chouaib = {
 
 -----
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=m-chouaib-0&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" />
+</p>
+
+-----
+
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -112,6 +141,17 @@ const chouaib = {
   </picture>
 </p>
 
+-----
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/m-chouaib-0/m-chouaib-0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m-chouaib-0&repo=m-chouaib-0&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF" width="49%" />
+  </a>
+</p>
+
+> 💡 *Pin your best repositories for them to appear here!*
 
 -----
 
@@ -151,7 +191,6 @@ const chouaib = {
 
 -----
 
-
 <br/>
 
 <p align="center">
@@ -160,4 +199,8 @@ const chouaib = {
 
 <p align="center">
   <b>🔥 "Clean code. Creative solutions. No limits." 🔥</b>
+</p>
+
+<p align="center">
+  <i>⭐ If you like my work, consider giving a star to my repos!</i>
 </p>
